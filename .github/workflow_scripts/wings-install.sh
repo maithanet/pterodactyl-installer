@@ -29,7 +29,7 @@ set -e
 ######################################################################################
 
 export GITHUB_SOURCE="master"
-export GITHUB_BASE_URL="https://raw.githubusercontent.com/pterodactyl-installer/pterodactyl-installer"
+export GITHUB_BASE_URL="https://raw.githubusercontent.com/maithanet/pterodactyl-installer/pterodactyl-installer"
 export CONFIGURE_FIREWALL=true
 export CONFIGURE_DBHOST=true
 export INSTALL_MARIADB=true
